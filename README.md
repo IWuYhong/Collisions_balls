@@ -19,7 +19,6 @@ Este proyecto simula un sistema de colisiones elásticas entre pelotas en una ve
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Pygame](https://img.shields.io/badge/Pygame-2.5.0-orange)](https://www.pygame.org/)
 
-![Demo del Proyecto](https://imgur.com/a/IPDglbd)
 
 ## ✨ Características Principales
 - **Detección de colisiones** entre múltiples pelotas.
@@ -33,6 +32,7 @@ Este proyecto simula un sistema de colisiones elásticas entre pelotas en una ve
 - **Sistema de partículas**: Partículas con transparencia y tiempo de vida.
 - **Optimización**: Delta time para movimiento independiente del framerate.
 - **Control de versiones**: Python 3.8+ y Pygame 2.5.0.
+
 
 ## Instalación
 
